@@ -2,7 +2,7 @@
 
 ![Logo](FoodLogisticLogo.png)
 
-Autors: [nom dels components del grup]
+Autors: Albert Teruel Olmedo, Joel Domínguez Culebras, Lluís García Martinez
 
 ## Descripció
 
